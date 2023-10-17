@@ -4,8 +4,23 @@
   padding: 2rem;
   text-align: center;
 }
+nav{
+    display: flex;
+    justify-content: space-around;
+  }
 
-.logo {
+
+
+img{
+    width: 150px;
+    height:150px;
+  }
+Card div{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+//*.logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
